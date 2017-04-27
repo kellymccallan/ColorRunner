@@ -10,8 +10,8 @@ public class BackgroundScroller : MonoBehaviour
     {
         Vector3 position = transform.position;
 
-    position.x -= Time.deltaTime + speed;
+    	position.x -= Time.deltaTime + speed;
 
         transform.position = position;
-        }
+    }
 }

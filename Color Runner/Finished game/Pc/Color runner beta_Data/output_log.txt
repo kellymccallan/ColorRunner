@@ -1,0 +1,68 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x13d7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\1_game DeV\ColorRunner\Color Runner\Finished game\Pc\Color runner beta_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.078370 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.595913 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.178218 ms (FindLiveObjects: 0.019634 ms CreateObjectMapping: 0.014348 ms MarkObjects: 0.133663 ms  DeleteObjects: 0.010572 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.442902 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.207291 ms (FindLiveObjects: 0.022654 ms CreateObjectMapping: 0.016613 ms MarkObjects: 0.164625 ms  DeleteObjects: 0.003020 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.435728 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.196341 ms (FindLiveObjects: 0.029073 ms CreateObjectMapping: 0.016613 ms MarkObjects: 0.148011 ms  DeleteObjects: 0.002643 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.457250 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.185769 ms (FindLiveObjects: 0.021899 ms CreateObjectMapping: 0.015858 ms MarkObjects: 0.144991 ms  DeleteObjects: 0.003020 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478394 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.211822 ms (FindLiveObjects: 0.022654 ms CreateObjectMapping: 0.016991 ms MarkObjects: 0.168778 ms  DeleteObjects: 0.003020 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422890 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.197474 ms (FindLiveObjects: 0.021522 ms CreateObjectMapping: 0.015480 ms MarkObjects: 0.157828 ms  DeleteObjects: 0.002643 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 193c -> priority: 1 
+  Thread -> id: 2de8 -> priority: 1 
